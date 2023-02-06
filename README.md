@@ -17,3 +17,4 @@ Take the control of GG, the golden acorn, and grow trees along your way to reach
 Devlopment: Vincent Bathellier, Adrien Dorise, Erwan Lecarpentier
 Music: Melissa "Ahrid" Manelphe
 Voices: Vincent Bathellier, Adrien Dorise, Erwan Lecarpentier, Kilian Churlet
+Star-Talent: Joris "Jokiri" Pilastre
